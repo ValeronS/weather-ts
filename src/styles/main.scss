@@ -1,0 +1,9 @@
+@import "normalize";
+@import "variables";
+
+body {
+  background: url('public/assets/images/background.png') no-repeat center / cover;
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+}
